@@ -1,0 +1,13 @@
+.single {
+  padding: 2px 16px;
+  background-color: white;
+  display: block;
+  margin: 20px 10px;
+  border-left: 8px solid white;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.single:hover {
+  border-left: 8px solid #4979ff;
+}
